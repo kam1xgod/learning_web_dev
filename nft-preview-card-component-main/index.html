@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+    <link href="css/style.css" rel="stylesheet" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit&display=swap" rel="stylesheet">
+
+    <title>Frontend Mentor | NFT preview card component</title>
+</head>
+
+<body>
+    <main>
+
+        <div class="nft">
+
+            <div class="container">
+                <img class="nft__image" alt="Whoops" src="images/image-equilibrium.jpg" />
+                <a href="#">
+                    <div class="overlay">
+                        <img class="nft__image--hover" aria-hidden="true" src="images/icon-view.svg" />
+                    </div>
+                </a>
+            </div>
+            <div class="nft__title">
+                <h1><a href="#">Equilibrium #3429</a></h1>
+            </div>
+
+            <div class="nft__subtitle">
+                <h2>Our Equilibrium collection promotes balance and calm.</h2>
+            </div>
+
+        </div>
+
+        <div class="crypto__info">
+
+            <div class="crypto__info--price">
+
+                <img class="icon" alt="Price" src="images/icon-ethereum.svg" />
+                <p>0.041 ETH</p>
+
+            </div>
+
+            <div class="crypto__info--time">
+
+                <img class="icon" alt="Time" src="images/icon-clock.svg" />
+                <p>3 days left</p>
+
+            </div>
+
+        </div> <!-- /crypto__info -->
+
+        <div class="creator">
+
+            <img class="creator__avatar" alt="Creator's avatar" src="images/image-avatar.png" />
+            <p class="creator__text">Creation of <a href="#">Jules Wyvern</a></p>
+
+        </div>
+
+    </main>
+
+</body>
+
+</html>

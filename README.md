@@ -33,16 +33,18 @@ Empty now. Sadge.
 
 ### Global
 
-Will add later. I really want to sleep now.
+- [FrontendMentor](https://www.frontendmentor.io/home)
+- [Scrimba](https://scrimba.com/allcourses)
 
 ### CSS
 
-
+- [Kevin Powell YouTube Channel](https://www.youtube.com/kepowob)
+- [W3](https://www.w3schools.com/)
 
 ### JavaScript
 
-
+- [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ### Useful
 
-
+Empty now. Sadge.
